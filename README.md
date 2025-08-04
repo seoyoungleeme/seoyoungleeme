@@ -10,7 +10,7 @@
    https://github.com/erika0915/osp-ewhamarket
 6. 청각 장애인을 위한 자동 자막 생성 어플리케이션, 속삭임.
    https://github.com/BFF-Barrier-Free-Forever
-7. 기차 예매 시스템 데이터메이스
+7. 기차 예매 시스템 데이터베이스
    https://github.com/keumchaewon/DB_Trainbooking
 
 <!---
