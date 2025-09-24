@@ -12,6 +12,8 @@
    https://github.com/BFF-Barrier-Free-Forever
 7. 기차 예매 시스템 데이터베이스
    https://github.com/keumchaewon/DB_Trainbooking
+8. 은행 보이스피싱 FSM 자동 감지 시스템
+  https://github.com/seoyoungleeme/NH_FSD
 
 <!---
 seoyoungleeme/seoyoungleeme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
